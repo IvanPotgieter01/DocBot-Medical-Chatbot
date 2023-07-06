@@ -6,3 +6,8 @@ DocBot is a virtual healthcare assistant and a revolutionary medical chatbot app
 
 
 ![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/208f47a2-2a2a-4b0f-8829-c8d899a493ed)
+
+![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/a8db572a-1f24-48ab-9b14-bce40b8b9778)
+
+
+![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/3331c4e5-eb75-4602-9db1-96b55a2fa771)
