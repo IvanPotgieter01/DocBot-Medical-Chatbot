@@ -1,4 +1,7 @@
 # DocBot
+I qualified to participate in a two-part program hosted by AWS. The first stage, "AWS Premium Support Summer School", provided intensive training in cloud computing fundamentals and Amazon's corporate culture. As part of a team project, we proposed a solution to a business challenge using AWS cloud technologies.
+The second stage, "AWS Premium Support Winter School", involved the practical implementation of our proposed designs under mentorship from AWS professionals. We were able to execute our ideas and present the final product to an audience including mentors, managers and AWS site leadership.
+
 DocBot is a virtual healthcare assistant and a revolutionary medical chatbot app that provides users with accurate and reliable medical information. Powered by state-of-the-art natural language processing techniques and the OpenAI API, DocBot understands natural language input and provides answers to medical questions in a conversational manner. It bridges the gap between users and healthcare professionals, offering convenient access to medical information and assistance 24/7. With DocBot, users can make informed decisions about their health, save on consultation fees, and reduce the strain on healthcare facilities and resources. Please note that DocBot's information is meant to complement professional medical advice and should not replace it. Always consult a licensed healthcare professional for specific medical advice or diagnosis.
 
 ## Cloud Architecture
