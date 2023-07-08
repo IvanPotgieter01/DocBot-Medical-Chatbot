@@ -7,10 +7,23 @@ DocBot is a virtual healthcare assistant and a revolutionary medical chatbot app
 ## Cloud Architecture
 ![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/bf631d05-0670-4427-ae1d-59990ad37d32)
 
+## AWS services we used
+![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/78a3ba35-5374-492f-98f9-eca7e48c03f8)
 
-![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/208f47a2-2a2a-4b0f-8829-c8d899a493ed)
+## Other services we used
+![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/853b94e3-643d-420c-8622-41a534dc5ed7)
 
-![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/a8db572a-1f24-48ab-9b14-bce40b8b9778)
+## CloudWatch Metrics
+![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/525041f2-ea7b-41f6-aa6a-e1628250aa61)
 
+## SNS Alarm Notifications
+![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/88c8e549-6e19-4b03-8cac-d4efdfb7a828)
 
-![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/3331c4e5-eb75-4602-9db1-96b55a2fa771)
+## Homepage
+![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/cd25c682-3090-4093-9f60-1f0a654e4716)
+
+## Sign-in page
+![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/5a97f188-bff2-45df-bd83-ff75cb6c21e4)
+
+## Diagnosing Diseases
+![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/c1fb372b-1bc2-4082-bf09-85df2ed1b08b)
