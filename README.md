@@ -27,3 +27,19 @@ DocBot is a virtual healthcare assistant and a revolutionary medical chatbot app
 
 ## Diagnosing Diseases
 ![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/c1fb372b-1bc2-4082-bf09-85df2ed1b08b)
+
+## DocBot in action
+![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/e65a56e9-59c5-4495-b0eb-fa6e506683b9)
+
+![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/8f7775d8-0466-46d5-bb52-168f54c009c8)
+
+![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/8c229197-5611-45ec-bc83-3f6e3bf5cbec)
+
+![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/9f85534e-2d58-4d14-a36c-75af36fd4164)
+
+![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/e218e80b-3d1d-4a43-94dc-59d540303229)
+
+![image](https://github.com/IvanPotgieter01/DocBot/assets/109952133/62a30cb2-efee-4de0-8989-66265cae344b)
+
+## Credit
+https://github.com/aws-samples/aws-serverless-openai-chatbot-demo
